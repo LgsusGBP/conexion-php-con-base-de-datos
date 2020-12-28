@@ -1,5 +1,5 @@
 <?php
-  /* este pequeño script es para conectar nuestro codigo a la base de datos/*
+  /* este pequeño script es para conectar nuestro codigo a la base de datos*/
     $host ='localhost';
     $user = 'nombre de usuario de la base de datos';
     $password = 'contraseña de la base de datos';
